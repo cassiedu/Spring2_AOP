@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="aspectjtools-1.9.5">
+    <CLASSES>
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/aspectjweaver/lib/aspectjtools-1.9.5.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/aspectjweaver/lib/aspectjweaver.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/aspectjweaver/lib/AspectJ-plugin-3.0.0.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/aspectjweaver/lib/aspectj-1.9.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/aspectjweaver/lib/aspectj-1.9.5.jar!/files/doc/runtime-apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/aspectjweaver/lib/aspectj-1.9.5.jar!/files/doc/examples" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/aspectjweaver/lib/aspectj-1.9.5.jar!/files/doc/examples/ltw" />
+    </SOURCES>
+  </library>
+</component>
